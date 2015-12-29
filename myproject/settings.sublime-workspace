@@ -1,0 +1,298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"le",
+				"leeds"
+			],
+			[
+				"get",
+				"get_score"
+			],
+			[
+				"s_",
+				"s_items"
+			],
+			[
+				"no_d",
+				"no_d"
+			],
+			[
+				"E",
+				"E"
+			],
+			[
+				"D",
+				"D"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"B",
+				"B"
+			],
+			[
+				"pc",
+				"pc_diff"
+			],
+			[
+				"question_",
+				"question_metadata_table"
+			],
+			[
+				"Ques",
+				"Question_metadata"
+			],
+			[
+				"qu",
+				"question_analytics"
+			],
+			[
+				"submit",
+				"submit_objects"
+			],
+			[
+				"de",
+				"default"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kirankaranth/FPL/LFCIndiaFPL15-16/fpl1516.py.ph4",
+		"/home/kirankaranth/learnDjango/mysite/polls/models.py",
+		"/home/kirankaranth/learnDjango/mysite/polls/views.py",
+		"/home/kirankaranth/learnDjango/mysite/polls/templates/polls/detail.html",
+		"/home/kirankaranth/learnDjango/mysite/polls/templates/polls/index.html",
+		"/home/kirankaranth/learnDjango/mysite/polls/urls.py",
+		"/home/kirankaranth/FPL/LFCIndiaFPL15-16/vccount.py",
+		"/home/kirankaranth/learnDjango/mysite/polls/admin.py",
+		"/home/kirankaranth/learnDjango/mysite/mysite/settings.py",
+		"/home/kirankaranth/FPL/LFCIndiaFPL15-16/fpl1516.py.ph3",
+		"/home/kirankaranth/FPL/LFCIndiaFPL15-16/players-list.txt",
+		"/home/kirankaranth/learnDjango/mysite/mysite/urls.py",
+		"/home/kirankaranth/learnDjango/mysite/db.sqlite3",
+		"/home/kirankaranth/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/kirankaranth/FPL/LFCIndiaFPL15-16/score_scraper.py",
+		"/home/kirankaranth/fpl_scraperv3/checkifhome.py",
+		"/home/kirankaranth/FPL/LFCIndiaFPL15-16/PyFiles/fpl1516.py.gw7",
+		"/home/kirankaranth/FPL/LFCIndiaFPL15-16/fpl1516.py.ph2",
+		"/home/kirankaranth/FPL/LFCIndiaFPL15-16/fpl1516.py",
+		"/home/kirankaranth/FPL/LFCIndiaFPL15-16/test.py",
+		"/home/kirankaranth/GradSchool-Rank-Parser/score_scraper.py",
+		"/home/kirankaranth/FPL/LFCIndiaFPL15-16/get_team.py",
+		"/home/kirankaranth/Desktop/LFC India Fantasy League 2015-2016 Auction rules.txt",
+		"/home/kirankaranth/points xpath",
+		"/home/kirankaranth/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/kirankaranth/players list.txt",
+		"/home/kirankaranth/Desktop/players list",
+		"/home/kirankaranth/players list",
+		"/home/kirankaranth/ceredron/questionbank/settings.py",
+		"/home/kirankaranth/ceredron/testing/urls.py",
+		"/home/kirankaranth/ceredron/templates/testing/index.html",
+		"/home/kirankaranth/ceredron/templates/base2.html",
+		"/home/kirankaranth/ceredron/templates/testing/analytics.html",
+		"/home/kirankaranth/recommendations.py",
+		"/home/kirankaranth/ceredron/questions/models.py",
+		"/home/kirankaranth/ceredron/testing/models.py",
+		"/home/kirankaranth/ceredron/testing/views.py",
+		"/home/kirankaranth/ceredron/questions/views.py",
+		"/home/kirankaranth/mysite/mysite/urls.py",
+		"/home/kirankaranth/mysite/mysite/settings.py",
+		"/home/kirankaranth/mysite/polls/urls.py",
+		"/home/kirankaranth/mysite/polls/admin.py",
+		"/home/kirankaranth/mysite/polls/views.py",
+		"/home/kirankaranth/mysite/polls/models.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getfix",
+			"fixture",
+			"jena",
+			"city",
+			"logfile",
+			"Text",
+			"font",
+			"arvind",
+			"sunil",
+			"302749",
+			"m$",
+			"[\\d].",
+			"^\\n",
+			"kunal",
+			"aman",
+			"john",
+			"ajith",
+			"left",
+			"Submit.objects.filter",
+			"questions_",
+			"save"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "settings.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
