@@ -1,4 +1,4 @@
-# ShareIt - A simple Django file sharing solutiom
+# ShareIt - A simple Django file sharing solution
 
 Installation    
 -------------  
